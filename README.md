@@ -1,9 +1,6 @@
 # Stack Overflow survey breakdown
 
-This repository presents the Jupyter notebook behind this blog post: ... This post is based on survey data from Stack Overflow: https://insights.stackoverflow.com/survey.
-
-## About the data
-...
+This repository presents the Jupyter notebook behind this blog post: https://pimvschayik-69902.medium.com/quick-insight-on-stack-overflow-data-7c89f5644a67. This post is based on survey data from Stack Overflow: https://insights.stackoverflow.com/survey.
 
 # Development
 
