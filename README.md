@@ -2,6 +2,11 @@
 
 This repository presents the Jupyter notebook behind this blog post: https://pimvschayik-69902.medium.com/quick-insight-on-stack-overflow-data-7c89f5644a67. This post is based on survey data from Stack Overflow: https://insights.stackoverflow.com/survey.
 
+## The project
+
+The main goal of the project is to get a better understanding of the developers that use Stack Overflow. We have a look at the hobbyist, age, deployment, and developer type fields of the data and create a model based on these fields to determine salary. We follow CRISP-DM methodology which is included in the Jupyter notebook (`data-review.ipynb`). The results, however, can be found in the blog post.
+
+
 # Development
 
 ## Requirements:
