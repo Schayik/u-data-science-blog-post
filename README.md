@@ -9,8 +9,15 @@ The main goal of the project is to get a better understanding of the developers 
 
 # Development
 
-## Requirements:
-- Python3
+We are using Python 3 for this project
+
+## Libraries:
+- pip: to install libraries (included in Python 3)
+- venv: to create a virtual environment (included in Python 3)
+- Jupyter Notebook: tool that enables us create Jupyter Notebooks like the 'data-review.ipynb' file
+- Pandas: enables us to use organised data with labels (uses NumPy)
+- matplotlib: used to create visualisations by plotting data
+- scikit-learn: library that helps us create machine learning models
 
 ## Getting started
 1. Clone project from GitHub: `git clone https://github.com/Schayik/u-data-science-blog-post.git`
